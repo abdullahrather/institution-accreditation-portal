@@ -2,7 +2,7 @@
  <script src="{{ url('auth/assets/jquery/jquery.min.js') }}"></script>
  <!-- Page specific script -->
  <!-- Bootstrap 4 -->
- <script src="{{ url('auth/assets/bootsctrap/js/bootstrap.bundle.min.js') }}"></script>
+ <script src="{{ url('auth/assets/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
  <!-- jquery-validation -->
  <script src="{{ url('auth/assets/jquery-validation/jquery.validate.min.js') }}"></script>
  <script src="{{ url('auth/assets/jquery-validation/additional-methods.min.js') }}"></script>
