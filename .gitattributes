@@ -9,3 +9,6 @@
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
+
+# Third-party theme files, left out of GitHub's language stats
+public/auth/** linguist-vendored
