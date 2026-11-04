@@ -1,6 +1,6 @@
 # Institution Accreditation Portal
 
-A Laravel 10 web app for running accreditation reviews of higher education institutions. Administrators, review committees and institutions each sign in to one portal and see only what their role allows.
+A Laravel 12 web app for running accreditation reviews of higher education institutions. Administrators, review committees and institutions each sign in to one portal and see only what their role allows.
 
 ## Features
 
@@ -16,11 +16,11 @@ A Laravel 10 web app for running accreditation reviews of higher education insti
 
 ## Tech stack
 
-PHP 8.1+, Laravel 10, MySQL (or SQLite), Blade, AdminLTE 3, Bootstrap 4, jQuery Validation and `mews/captcha`.
+PHP 8.2+, Laravel 12, MySQL (or SQLite), Blade, AdminLTE 3, Bootstrap 4, jQuery Validation and `mews/captcha`.
 
 ## Getting started
 
-You need PHP 8.1 or newer with the GD extension, Composer, and MySQL or SQLite.
+You need PHP 8.2 or newer with the GD extension, Composer, and MySQL or SQLite.
 
 ```bash
 git clone https://github.com/abdullahrather/institution-accreditation-portal.git
